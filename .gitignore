@@ -1,2 +1,7 @@
+.project
+.classpath
 /bin/*
 /tmp/*
+/bin/
+/target/
+.settings/

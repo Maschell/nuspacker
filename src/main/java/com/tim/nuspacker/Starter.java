@@ -161,7 +161,7 @@ public class Starter {
         
         /*if(appInfo.getAppType() == 0x0800001B){
             if(fullGameDir == null || fullGameDir.isEmpty()){
-                System.err.println("The title you want to pack is an update. Please provide the path of the full game with the -fullGameDir paramter");
+                System.err.println("The title you want to pack is an update. Please provide the path of the full game with the -fullGameDir parameter");
                 System.exit(0);
             }else{
                 System.out.println(fullGameDir);
