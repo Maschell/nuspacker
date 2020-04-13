@@ -5,8 +5,8 @@
 	<groupId>com.tim</groupId>
 	<artifactId>NUSPacker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>NUSPacker</name>
 
+	<name>NUSPacker</name>
 	<url>https://github.com/Maschell/NUSPacker</url>
 
 	<profiles>
@@ -52,7 +52,7 @@
 						<configuration>
 							<archive>
 								<manifest>
-									<mainClass>de.mas.wiiu.streaming.Main</mainClass>
+									<mainClass>com.tim.nuspacker.Starter</mainClass>
 								</manifest>
 							</archive>
 							<descriptorRefs>
